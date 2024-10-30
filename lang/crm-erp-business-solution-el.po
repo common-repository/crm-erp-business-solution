@@ -1,0 +1,2136 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: crm erp v.1.02\n"
+"POT-Creation-Date: 2021-03-16 22:56+0200\n"
+"PO-Revision-Date: 2021-03-16 23:07+0200\n"
+"Last-Translator: \n"
+"Language-Team: extendwp\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class-main.php:128 class-main.php:129
+msgid " toggle Fullscreen"
+msgstr " Πλήρης Οθόνη"
+
+#: class-main.php:129
+msgid " Show Intro"
+msgstr " Εισαγωγή"
+
+#: class-main.php:130
+msgid " Settings"
+msgstr " Ρυθμίσεις"
+
+#: class-main.php:131
+msgid " Extensions"
+msgstr " Επεκτάσεις"
+
+#: class-main.php:209 class-main.php:211 class-main.php:274
+msgid "General"
+msgstr "Γενικά"
+
+#: class-main.php:209 class-main.php:211 includes/crm-erp-reports.php:632
+msgid "ERP Sales"
+msgstr "ERP Πωλήσεις"
+
+#: class-main.php:209 class-main.php:211 includes/crm-erp-reports.php:633
+msgid "ERP Payments/Purchases"
+msgstr "ERP Πληρωμές/Αγορές"
+
+#: class-main.php:209 includes/crm-erp-users.php:956
+#: includes/crm-erp-users.php:1089
+msgid "Eshop Orders"
+msgstr "Παραγγελίες ESHOP"
+
+#: class-main.php:209 class-main.php:211
+msgid "Paid By Year"
+msgstr "Πληρωμές  / Έτος"
+
+#: class-main.php:209 class-main.php:211
+msgid "Paid By Month"
+msgstr "Πληρωμές / Μήνα"
+
+#: class-main.php:275
+msgid "Company Info"
+msgstr "Πληροφορίες Εταιρείας"
+
+#: class-main.php:276
+msgid "Documents"
+msgstr "Έγγραφα"
+
+#: class-main.php:277 includes/crm-erp-reports.php:1108
+#: includes/crm-erp-users.php:1076
+msgid "Transactions"
+msgstr "Συναλλαγές"
+
+#: class-main.php:278
+msgid "Users"
+msgstr "Χρήστες"
+
+#: class-main.php:307
+msgid "Sample Document"
+msgstr "Δείγμα Εγγάφου PDF"
+
+#: class-main.php:396 class-main.php:400 class-main.php:408 class-main.php:410
+#: includes/crm-erp-reports.php:1111 includes/crm-erp-users.php:434
+#: includes/crm-erp-users.php:524
+msgid "Customers"
+msgstr "Πελάτες"
+
+#: class-main.php:396 class-main.php:400 class-main.php:408 class-main.php:410
+#: includes/crm-erp-users.php:435 includes/crm-erp-users.php:529
+msgid "Vendors"
+msgstr "Προμηθευτές"
+
+#: class-main.php:396 class-main.php:400 class-main.php:408 class-main.php:410
+#: includes/crm-erp-reports.php:620 includes/crm-erp-reports.php:749
+#: includes/crm-erp-transactions.php:480
+msgid "Sales"
+msgstr "Πωλήσεις"
+
+#: class-main.php:396 class-main.php:400 class-main.php:408 class-main.php:410
+msgid "Payments/Purchases"
+msgstr "Πληρωμές/Αγορές"
+
+#: class-main.php:396 class-main.php:400 includes/crm-erp-transactions.php:482
+#: includes/crm-erp-users.php:933 includes/crm-erp-users.php:1082
+msgid "Offers"
+msgstr "Προσφορές"
+
+#: class-main.php:396 class-main.php:408 includes/crm-erp-products.php:70
+#: includes/crm-erp-products.php:84 includes/crm-erp-products.php:404
+msgid "Offline Products"
+msgstr "Offline Προιόντα"
+
+#: class-main.php:419 includes/crm-erp-appointments.php:38
+#: includes/crm-erp-appointments.php:51 includes/crm-erp-appointments.php:414
+#: includes/crm-erp-users.php:1106
+msgid "Appointments"
+msgstr "Ραντεβού"
+
+#: class-main.php:423 includes/crm-erp-reports.php:62
+msgid "Reports"
+msgstr "Αναφορές"
+
+#: class-main.php:481
+msgid "Get more plugins by extendWP"
+msgstr "Περισσότερα plugins από το extend-wp.com"
+
+#: class-main.php:491
+msgid "You like this plugin? "
+msgstr "Σας αρέσει το Plugin? "
+
+#: class-main.php:491
+msgid "Then please give us "
+msgstr "Τότε δώστε μας "
+
+#: class-main.php:503
+msgid "Enable Emails"
+msgstr "Ενεργοποίηση Email"
+
+#: class-main.php:503 class-main.php:506 class-main.php:509 class-main.php:512
+#: class-main.php:515 class-main.php:519
+msgid "PRO"
+msgstr "PRO"
+
+#: class-main.php:506
+msgid "Enable Actions"
+msgstr "Ενεργοποίηση Tracking"
+
+#: class-main.php:509
+msgid "Enable Tickets"
+msgstr "Ενεγοποίηση Tickets"
+
+#: class-main.php:512
+msgid "Enable Product Stock Inventory"
+msgstr "Ενεργοποιηση Διαχείρισης Αποθέματος"
+
+#: class-main.php:515
+msgid "User Segmentation"
+msgstr "Κατηγοριοποίηση Χρηστών"
+
+#: class-main.php:519
+msgid "User Discount (%)"
+msgstr "Εκπώσεις Πελατών"
+
+#: class-main.php:533
+msgid "Plugin Access Role (apart from admin)"
+msgstr "Ρόλος Χρήστη για πρόσβαση στο Plugin(εκτός του διαχειριστή)"
+
+#: class-main.php:537
+msgid "Enable Appointments"
+msgstr "Ενεργοποίηση Ραντεβού"
+
+#: class-main.php:541
+msgid "Enable Offers"
+msgstr "Ενεργοποίηση Προσφορών"
+
+#: class-main.php:547
+msgid "Delete settings on uninstall"
+msgstr "Διαγραφή Ρυθμίσεων κατά την Απεγκατάσταση"
+
+#: class-main.php:550
+msgid "Delete tables on uninstall"
+msgstr "Διαγραφή Πινάκων κατά την Απεγκατάσταση"
+
+#: class-main.php:554
+msgid "Default tax"
+msgstr "Προεπιλεγμένο ποσοστό Φόρου"
+
+#: class-main.php:554
+msgid "for transactions"
+msgstr "για τις Συναλλαγές"
+
+#: class-main.php:557
+msgid "Choose Currency"
+msgstr "Επιλέξτε Νόμισμα"
+
+#: class-main.php:560 includes/crm-erp-reports.php:1116
+#: includes/crm-erp-reports.php:1536 includes/crm-erp-reports.php:1548
+msgid "Payment Methods"
+msgstr "Μέθοδοι Πληρωμής"
+
+#: class-main.php:563
+msgid "Invoice on Transaction only on Demand"
+msgstr "Τιμολόγιο στις Συναλλαγές μόνο όταν το χρειάζεστε"
+
+#: class-main.php:566
+msgid "Company Name"
+msgstr "Όνομα Εταιρείας"
+
+#: class-main.php:570
+msgid "Company Image"
+msgstr "Λογότυπο Εταιρείας"
+
+#: class-main.php:574
+msgid "Company Vat"
+msgstr "ΑΦΜ Εταιρείας"
+
+#: class-main.php:578
+msgid "Company Phone"
+msgstr "Τηλέφωνο Εταιρείας"
+
+#: class-main.php:581
+msgid "Company Mobile"
+msgstr "Κινητό Τηλ. Εταιρείας"
+
+#: class-main.php:584
+msgid "Company Adress"
+msgstr "Διεύθυνση Εταιρείας"
+
+#: class-main.php:611
+msgid "name"
+msgstr "όνομα"
+
+#: class-main.php:622
+msgid "phone"
+msgstr "τηλέφωνο"
+
+#: class-main.php:633
+msgid "mobile phone"
+msgstr "κινητό τηλέφωνο"
+
+#: class-main.php:643
+msgid "vat number"
+msgstr "αριθμός αφμ"
+
+#: class-main.php:654
+msgid "Default Tax percentage for transactions"
+msgstr "Προεπιλεγμένο ποσοστό Φόρου για Συναλλαγές"
+
+#: class-main.php:669
+msgid "Upload /select Image"
+msgstr "Ανεβάστε Εικόνα"
+
+#: class-main.php:675
+msgid "Remove Image"
+msgstr "Διαγραφή Εικόνας"
+
+#: class-main.php:677
+msgid "image url"
+msgstr "διεύθυνση-url εικόνας"
+
+#: class-main.php:694
+msgid "handle custom fields"
+msgstr "διαχείριση custom πεδίων"
+
+#: class-main.php:695 includes/crm-erp-transactions.php:1347
+msgid "Select.."
+msgstr "Επιλογή.."
+
+#: class-main.php:727 class-main.php:742
+msgid "Payment method"
+msgstr "Μέθοδος Πληρωμής"
+
+#: class-main.php:764 class-main.php:772
+msgid " PRO Addon"
+msgstr " PRO Addon"
+
+#: class-main.php:883
+msgid "Select Role..."
+msgstr "Επιλογή Ρόλου.."
+
+#: class-main.php:1200
+msgid "Extend CRM ERP & meet you Business Needs!"
+msgstr "Επεκτείνετε το CRM ERP και καλύψτε τις επιχειρησιακές σας Ανάγκες!"
+
+#: class-main.php:1210
+msgid "installed"
+msgstr "εγκατεστημένο"
+
+#: class-main.php:1218
+msgid "Get it here"
+msgstr "Αποκτήστε το Εδώ"
+
+#: class-main.php:1247
+msgid "WooCommerce Integration Addon"
+msgstr "WooCommerce Integration Addon"
+
+#: class-main.php:1251
+msgid "Pro Addon"
+msgstr "Pro Addon"
+
+#: class-main.php:1284
+msgid " CRM Customers already added"
+msgstr " CRM EPR Πελάτες-έχουν ήδη εισαχθεί"
+
+#: class-main.php:1287
+msgid "No CRM Customers added yet"
+msgstr "Δεν έχουν ακόμα εισαχθεί Πελάτες CRM ERP"
+
+#: class-main.php:1288
+msgid "Add Customers first"
+msgstr "Εισάγετε πρώτα Πελάτες"
+
+#: class-main.php:1299
+msgid " CRM Vendors already added"
+msgstr " CRM ERP Προμηθευτές-έχουν ήδη εισαχθεί"
+
+#: class-main.php:1302
+msgid "No CRM Vendors added yet"
+msgstr "Δεν έχουν εισαχθεί ακόμα Προμηθευτές"
+
+#: class-main.php:1303
+msgid "Add Vendors first"
+msgstr "Εισάγετε πρώτα Προμηθευτές"
+
+#: class-main.php:1316
+msgid " Offline Products already added"
+msgstr " Έχουν ήδη εισαχθεί Offline Προιόντα"
+
+#: class-main.php:1319
+msgid "No Offline Products added yet"
+msgstr "Δεν έχουν ακόμα εισαχθεί offline Προιόντα"
+
+#: class-main.php:1320
+msgid "Add Products first"
+msgstr "Εισάγετε πρώτα Προιόντα"
+
+#: class-main.php:1340
+msgid "Welcome to CRM ERP Business Solution for WordPress & WooCommerce"
+msgstr ""
+"Καλωσήρθατε στο CRM ERP Εμπορικό Σύστημα Μηχανογράφησης για το WordPress και "
+"WooCommerce"
+
+#: class-main.php:1341
+msgid ""
+"Record & Track your Transactions, Customers, Vendors, Appointments, "
+"Products, Print and Send by Email Invoices &Offers & view your Reports!"
+msgstr ""
+"Καταγράψτε & παρακολουθήστε τις Συναλλαγές, Πελάτες, Προμηθευτές, Προιόντα, "
+"δημιουργήστε και Στείλτε Τιμολόγια & Προσφορές & ελέγξτε τις Αναφορές σας!"
+
+#: class-main.php:1350
+msgid "set your settings"
+msgstr "ρυθμίστε το Plugin"
+
+#: class-main.php:1353
+msgid "add customers"
+msgstr "προσθέστε πελάτες"
+
+#: class-main.php:1354
+msgid " & vendors"
+msgstr " & προμηθευτές"
+
+#: class-main.php:1356
+msgid "add products"
+msgstr "προσθέστε προιόντα"
+
+#: class-main.php:1359
+msgid "add sales, offers"
+msgstr "προσθέστε πωλήσεις, προσφορές"
+
+#: class-main.php:1360
+msgid " & purchases"
+msgstr " & πληρωμές/αγορές"
+
+#: class-main.php:1363
+msgid "set appointments"
+msgstr "καταχωρήστε ραντεβού"
+
+#: class-main.php:1369
+msgid "Add your Customers"
+msgstr "Προσθέστε τους Πελάτες σας"
+
+#: class-main.php:1373
+msgid "Add your Vendors"
+msgstr "Προσθέστε τους Προμηθευτές σας"
+
+#: class-main.php:1377
+msgid "Add your Offline Products"
+msgstr "Προσθέστε τα offline Προιόντα σας"
+
+#: class-main.php:1383
+msgid "Add Sales but.."
+msgstr "Καταχωρήστε τις Πωλήσεις σας αλλα.."
+
+#: class-main.php:1386
+msgid "Add Sales"
+msgstr "Καταχωρήστε Πωλήσεις"
+
+#: class-main.php:1393
+msgid "Add Payments/purchases but.."
+msgstr "Καταχωρήστε Πληρωμές/Αγορές αλλά.."
+
+#: class-main.php:1396
+msgid "Add Payments/purchases"
+msgstr "Καταχωρήστε Πληρωμές/Αγορές"
+
+#: class-main.php:1401
+msgid "Send Invoices"
+msgstr "Στείλτε Τιμολόγια"
+
+#: class-main.php:1407
+msgid "Add Offer but.."
+msgstr "Δημιουργήστε Προσφορές αλλα.."
+
+#: class-main.php:1410
+msgid "Create & Send Offers"
+msgstr "Δημιουργήστε & Στείλτε Προσφορές"
+
+#: class-main.php:1418
+msgid "Add Appointments but.."
+msgstr "Καταχωρήστε Ραντεβού αλλά.."
+
+#: class-main.php:1420
+msgid "Add Appointments"
+msgstr "Καταχωρήστε Ραντεβού"
+
+#: class-main.php:1427
+msgid "View your Reports"
+msgstr "Δείτε τις Αναφορές σας"
+
+#: class-main.php:1435
+msgid "Categorize CRM ERP Users"
+msgstr "Κατηγοριοποιήστε τους CRM ERP Χρήστες"
+
+#: class-main.php:1443
+msgid "Product Stock Inventory"
+msgstr "Διαχείριση Αποθέματος Προιόντων"
+
+#: class-main.php:1451
+msgid "Add Wholesale Prices to Products"
+msgstr "Εισάγετε Τιμές Χονδρικής στα προιόντα"
+
+#: class-main.php:1459
+msgid "Add Customers Tickets"
+msgstr "Καταχωρήστε προβλήματα Πελάτη"
+
+#: class-main.php:1469
+msgid "Send Emails in Bulk to Customers"
+msgstr "Στείλτε Μαζικά Emails σε πελάτες"
+
+#: class-main.php:1476
+msgid "Bulk Import/Export your Data"
+msgstr "Μαζική Εισαγωγή/Εξαγωγή Δεδομένων"
+
+#: class-main.php:1484
+msgid "Track your Customers' Action on site"
+msgstr "Παρακολουθήστε τιςε Ενέργεις των Πελατών σας στο site"
+
+#: crm-erp-business-solution.php:384
+msgid "Select..."
+msgstr "Επιλογή.."
+
+#: crm-erp-business-solution.php:401 crm-erp-business-solution.php:407
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: crm-erp-business-solution.php:408
+msgid "Intro"
+msgstr "Εισαγωγή"
+
+#: includes/crm-erp-appointments.php:39
+msgid "Appointment"
+msgstr "Ραντεβού"
+
+#: includes/crm-erp-appointments.php:40
+msgid "Search Appointments"
+msgstr "Αναζήτηση Ραντεβού"
+
+#: includes/crm-erp-appointments.php:41
+msgid "All Appointments"
+msgstr "Όλα τα Ραντεβού"
+
+#: includes/crm-erp-appointments.php:42
+msgid "Parent Appointment"
+msgstr "Μητρικό Ραντεβού"
+
+#: includes/crm-erp-appointments.php:43
+msgid "Parent Appointment:"
+msgstr "Μητρικό Ραντεβού:"
+
+#: includes/crm-erp-appointments.php:44
+msgid "Edit Appointment"
+msgstr "Επεξεργασία Ραντεβού"
+
+#: includes/crm-erp-appointments.php:45
+msgid "Update Appointment"
+msgstr "Ενημέρωση Ραντεβού"
+
+#: includes/crm-erp-appointments.php:46
+msgid "View Appointment"
+msgstr "Προβολή Ραντεβού"
+
+#: includes/crm-erp-appointments.php:47
+msgid "Add New Appointment"
+msgstr "Καταχώρηση Νέου Ραντεβού"
+
+#: includes/crm-erp-appointments.php:48 includes/crm-erp-appointments.php:50
+msgid "New Appointment"
+msgstr "Νέο Ραντεβού"
+
+#: includes/crm-erp-appointments.php:49
+msgid "New Appointment Name"
+msgstr "Όνομα Νέου Ραντεβού"
+
+#: includes/crm-erp-appointments.php:52 includes/crm-erp-users.php:1263
+msgid "No Appointments found"
+msgstr "Δεν βρέθηκαν Ραντεβού"
+
+#: includes/crm-erp-appointments.php:55
+msgid "Adding and editing my Appointments"
+msgstr "Προσθήκη και Επεξεργασία Ραντεβού"
+
+#: includes/crm-erp-appointments.php:88 includes/crm-erp-appointments.php:91
+msgid "Appointment updated."
+msgstr "Το Ραντεβού Ενημερώθηκε."
+
+#: includes/crm-erp-appointments.php:89 includes/crm-erp-products.php:180
+msgid "Custom field updated."
+msgstr "Το προσαρμοσμένο πεδίο ενημερώθηκε."
+
+#: includes/crm-erp-appointments.php:90 includes/crm-erp-products.php:181
+msgid "Custom field deleted."
+msgstr "Το προσαρμοσμένο πεδίο διεγράφη."
+
+#: includes/crm-erp-appointments.php:92 includes/crm-erp-products.php:183
+#, php-format
+msgid "Offline Product restored to revision from %s"
+msgstr ""
+
+#: includes/crm-erp-appointments.php:93
+msgid "Appointment published."
+msgstr "Το Ραντεβού δημοσιεύτηκε."
+
+#: includes/crm-erp-appointments.php:94
+msgid "Appointment saved."
+msgstr "Το Ραντεβού Καταχωρήθηκε."
+
+#: includes/crm-erp-appointments.php:95
+msgid "Appointment submitted."
+msgstr "Το Ραντεβού Υπεβλήθη."
+
+#: includes/crm-erp-appointments.php:97
+#, php-format
+msgid "Appointment scheduled for: <strong>%1$s</strong>."
+msgstr "Το Ραντεβού προγραμματίστηκε για τις: <strong>%1$s</strong>."
+
+#: includes/crm-erp-appointments.php:98 includes/crm-erp-products.php:189
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: includes/crm-erp-appointments.php:100
+msgid "Appointment draft updated."
+msgstr "Το draft Ραντεβού ενημερώθηκε."
+
+#: includes/crm-erp-appointments.php:124
+msgid "Appointment Info"
+msgstr "Πληροφορίες Ραντεβού"
+
+#: includes/crm-erp-appointments.php:153
+msgid "For User: "
+msgstr "Για το Χρήστη: "
+
+#: includes/crm-erp-appointments.php:174 includes/crm-erp-appointments.php:256
+#: includes/crm-erp-appointments.php:310 includes/crm-erp-transactions.php:88
+#: includes/crm-erp-transactions.php:1208 includes/crm-erp-users.php:69
+msgid "User"
+msgstr "Χρήστης"
+
+#: includes/crm-erp-appointments.php:175
+msgid " selected: "
+msgstr " επιλεγμένο: "
+
+#: includes/crm-erp-appointments.php:193 includes/crm-erp-appointments.php:311
+#: includes/crm-erp-products.php:327 includes/crm-erp-reports.php:631
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#: includes/crm-erp-appointments.php:198
+msgid "Time"
+msgstr "Ώρα"
+
+#: includes/crm-erp-appointments.php:199
+msgid "time eg. 12:00"
+msgstr "ώρα πχ 12:00"
+
+#: includes/crm-erp-appointments.php:254 includes/crm-erp-appointments.php:308
+msgid "Appointment Date"
+msgstr "Ημερομηνία Ραντεβού"
+
+#: includes/crm-erp-appointments.php:255 includes/crm-erp-appointments.php:309
+msgid "Appointment Time"
+msgstr "Ώρα Ραντεβού"
+
+#: includes/crm-erp-appointments.php:296 includes/crm-erp-transactions.php:307
+msgid "User with ID: "
+msgstr "O Χρήστης με ID: "
+
+#: includes/crm-erp-appointments.php:296 includes/crm-erp-transactions.php:307
+msgid " do not exist"
+msgstr " δεν υπάρχει"
+
+#: includes/crm-erp-appointments.php:307 includes/crm-erp-products.php:320
+msgid "Title"
+msgstr "Τίτλος"
+
+#: includes/crm-erp-appointments.php:357
+msgid "Calendar View"
+msgstr "Ημερολόγιο"
+
+#: includes/crm-erp-appointments.php:358
+msgid "List View"
+msgstr "Λίστα"
+
+#: includes/crm-erp-documents.php:137
+msgid "Thank you text for print document"
+msgstr "Ευχαριστήριο Μήνυμα για το έγγραφο"
+
+#: includes/crm-erp-documents.php:150
+msgid "New start nr for invoice"
+msgstr "Νέα αρίθμηση για το τιμολόγιο"
+
+#: includes/crm-erp-documents.php:179
+msgid "Activate Receipts to select instead of Invoice for Sale Transactions"
+msgstr ""
+"Ενεργοποιηση Αποδείξεων για επιλογή αντί τιμολογίου για τις Συναλλαγές "
+"Πωλήσεων"
+
+#: includes/crm-erp-documents.php:182
+msgid "Document General Color"
+msgstr "Γενικό Χρώμα Κειμένου Εγγράφου"
+
+#: includes/crm-erp-documents.php:185
+msgid "Document Headings Background"
+msgstr "Χρώμα Background Κεφαλίδων Εγγράφου"
+
+#: includes/crm-erp-documents.php:188
+msgid "Document Headings Color"
+msgstr "Χρώμα Κεφαλίδων Εγγράφου"
+
+#: includes/crm-erp-documents.php:191
+msgid "Document ThankYou Message Color"
+msgstr "Χρώμα Ευχαριστηρίου Μηνύματος Εγγράφου"
+
+#: includes/crm-erp-documents.php:196
+msgid "Document Thank you Message"
+msgstr "Ευχαριστήριο Μήνυμα Εγγράφου"
+
+#: includes/crm-erp-documents.php:199
+msgid "Document Notes"
+msgstr "Σημειώσεις Εγγράφου"
+
+#: includes/crm-erp-documents.php:202
+msgid "Sale Transactions Document prefix"
+msgstr "Πρόθεμα Αρίθμησης Συναλλαγών"
+
+#: includes/crm-erp-documents.php:205
+msgid "Sale Transactions Document Start Number"
+msgstr "Νούμερο Έναρξης Εγράφου Συναλλαγών"
+
+#: includes/crm-erp-products.php:71
+msgid "Offline Product"
+msgstr "Offline Προιόν/Υπηρεσία"
+
+#: includes/crm-erp-products.php:72
+msgid "Search Offline Products"
+msgstr "Αναζήτηση Offline Προιόντων/Υπηρεσιών"
+
+#: includes/crm-erp-products.php:73
+msgid "All Offline Products"
+msgstr "Όλα τα Offline Προιόντα/Υπηρεσίες"
+
+#: includes/crm-erp-products.php:74
+msgid "Parent Offline Product"
+msgstr "Μητρικό Offline Προιόν/Υπηρεσία"
+
+#: includes/crm-erp-products.php:75
+msgid "Parent Offline Product:"
+msgstr "Μητρικό Offline Προιόν/Υπηρεσία:"
+
+#: includes/crm-erp-products.php:76 includes/crm-erp-products.php:82
+msgid "Edit Offline Product"
+msgstr "Επεξεργασία Offline Προιόντος/Υπηρεσίας"
+
+#: includes/crm-erp-products.php:77
+msgid "Update Offline Product"
+msgstr "Ενημέρωση Offline Προιόντος/Υπηρεσίας"
+
+#: includes/crm-erp-products.php:78
+msgid "Add New Offline Product"
+msgstr "Προσθήκη Νέου Προιόντος/Υπηρεσίας"
+
+#: includes/crm-erp-products.php:79 includes/crm-erp-products.php:83
+msgid "New Offline Product"
+msgstr "Νέο offline Προιόν/Υπηρεσία"
+
+#: includes/crm-erp-products.php:80
+msgid "New Offline Product Name"
+msgstr "Νέο Όνομα Offline Προιόντος"
+
+#: includes/crm-erp-products.php:81
+msgid "View Offline Product"
+msgstr "Προβολή Offline Προιόντος"
+
+#: includes/crm-erp-products.php:85
+msgid "No Products found"
+msgstr "Δεν βρέθηκαν Προιόντα"
+
+#: includes/crm-erp-products.php:88
+msgid "Adding and editing my Offline Products"
+msgstr "Προσθήκη & Επεξεργασία Offline Προιόντος"
+
+#: includes/crm-erp-products.php:111 includes/crm-erp-products.php:112
+#: includes/crm-erp-products.php:121 includes/crm-erp-products.php:208
+#: includes/crm-erp-products.php:322 includes/crm-erp-reports.php:1950
+msgid "Category"
+msgstr "Κατηγορία"
+
+#: includes/crm-erp-products.php:113
+msgid "Search Category"
+msgstr "Αναζήτηση Κατηγορίας"
+
+#: includes/crm-erp-products.php:114
+msgid "All Category"
+msgstr "Όλες οι Κατηγορίες"
+
+#: includes/crm-erp-products.php:115
+msgid "Parent Category"
+msgstr "Μητρική Κατηγορία"
+
+#: includes/crm-erp-products.php:116
+msgid "Parent Category:"
+msgstr "Μητρική Κατηγορία:"
+
+#: includes/crm-erp-products.php:117
+msgid "Edit Category"
+msgstr "Επεξεργασία Κατηγορίας"
+
+#: includes/crm-erp-products.php:118
+msgid "Update Category"
+msgstr "Ενημέρωση Κατηγορίας"
+
+#: includes/crm-erp-products.php:119
+msgid "Add New Category"
+msgstr "Προσθήκη Νέας Κατηγορίας"
+
+#: includes/crm-erp-products.php:120
+msgid "New Type Category"
+msgstr "Νέος Τύπος Κατηγορίας"
+
+#: includes/crm-erp-products.php:138 includes/crm-erp-products.php:139
+#: includes/crm-erp-products.php:148 includes/crm-erp-products.php:207
+#: includes/crm-erp-products.php:321
+msgid "Brand"
+msgstr "Μάρκα/Εταιρεία"
+
+#: includes/crm-erp-products.php:140
+msgid "Search Brand"
+msgstr "Αναζήτηση Μάρκας/Εταρείας"
+
+#: includes/crm-erp-products.php:141
+msgid "All Brand"
+msgstr "Όλες οι Μάρκες/Εταιρείες"
+
+#: includes/crm-erp-products.php:142
+msgid "Parent Brand"
+msgstr "Μητρική Μάρκα/Εταιρεία"
+
+#: includes/crm-erp-products.php:143
+msgid "Parent Brand:"
+msgstr "Μητρική Μάρκα/Εταιρεία:"
+
+#: includes/crm-erp-products.php:144
+msgid "Edit Brand"
+msgstr "Επεξεργασία Μάρκας/Εταιρείας"
+
+#: includes/crm-erp-products.php:145
+msgid "Update Brand"
+msgstr "Ενημέρωση Μάρκας/Εταιρείας"
+
+#: includes/crm-erp-products.php:146
+msgid "Add New Brand"
+msgstr "Προσθήκη Νέας Μάρκας/Εταιρείας"
+
+#: includes/crm-erp-products.php:147
+msgid "New Type Brand"
+msgstr "Νέος Τύπος Μάρκας/Εταιρείας"
+
+#: includes/crm-erp-products.php:179 includes/crm-erp-products.php:182
+msgid "Offline Product updated."
+msgstr "Το offline Ποιόν/Υπηρεσία ενημερώθηκε."
+
+#: includes/crm-erp-products.php:184
+msgid "Offline Product published."
+msgstr "Το offline Ποιόν/Υπηρεσία δημοσιεύτηκε."
+
+#: includes/crm-erp-products.php:185
+msgid "Offline Product saved."
+msgstr "Το offline Ποιόν/Υπηρεσία δημιουργήθηκε."
+
+#: includes/crm-erp-products.php:186
+msgid "Offline Product submitted."
+msgstr "Το offline Ποιόν/Υπηρεσία καταχωρήθηκε."
+
+#: includes/crm-erp-products.php:188
+#, php-format
+msgid "Offline Product scheduled for: <strong>%1$s</strong>."
+msgstr ""
+"Το offline Ποιόν/Υπηρεσία προγραμματίστηκε για τις: <strong>%1$s</strong>."
+
+#: includes/crm-erp-products.php:191
+msgid "Offline Product draft updated."
+msgstr "Το draft offline Ποιόν/Υπηρεσία ενημερώθηκε."
+
+#: includes/crm-erp-products.php:198
+msgid "Product Info"
+msgstr "Πληροφορίες Προιόντος"
+
+#: includes/crm-erp-products.php:205 includes/crm-erp-products.php:319
+msgid "Image"
+msgstr "Εικόνα"
+
+#: includes/crm-erp-products.php:206
+msgid "Sku"
+msgstr "Κωδικός"
+
+#: includes/crm-erp-products.php:209 includes/crm-erp-products.php:325
+#: includes/crm-erp-products.php:336
+msgid "Wholesale Price"
+msgstr "Τιμή Χονδρικής"
+
+#: includes/crm-erp-products.php:210 includes/crm-erp-products.php:326
+#: includes/crm-erp-products.php:342
+msgid "Stock"
+msgstr "Απόθεμα/Ποσότητα"
+
+#: includes/crm-erp-products.php:211 includes/crm-erp-products.php:324
+#: includes/crm-erp-products.php:358
+msgid "Retail Price"
+msgstr "Τιμή (Λιανικής)"
+
+#: includes/crm-erp-products.php:281 includes/crm-erp-products.php:303
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: includes/crm-erp-products.php:323 includes/crm-erp-products.php:351
+#: includes/crm-erp-reports.php:1818 includes/generatepdf.php:285
+msgid "SKU"
+msgstr "ΚΩΔΙΚΟΣ"
+
+#: includes/crm-erp-products.php:428
+#, php-format
+msgid "Show All %s"
+msgstr "Εμφάνιση όλων  %s"
+
+#: includes/crm-erp-products.php:446 includes/crm-erp-products.php:456
+#: includes/crm-erp-transactions.php:1786
+msgid "Select product: search by sku/name"
+msgstr "Επιλογή προιόντος: βάσει κωδικού/ονόματος"
+
+#: includes/crm-erp-reports.php:39
+msgid "Orders Report need "
+msgstr "Το Report για τις Παραγγελίες χρειάζεται το "
+
+#: includes/crm-erp-reports.php:95 includes/crm-erp-reports.php:106
+msgid " results "
+msgstr " αποτελέσματα "
+
+#: includes/crm-erp-reports.php:95 includes/crm-erp-reports.php:106
+#: includes/crm-erp-reports.php:1142 includes/crm-erp-reports.php:1146
+#: includes/crm-erp-reports.php:1150 includes/crm-erp-reports.php:1154
+#: includes/crm-erp-reports.php:1156
+msgid " for "
+msgstr " για "
+
+#: includes/crm-erp-reports.php:100 includes/crm-erp-reports.php:1154
+msgid " Analysis "
+msgstr " Ανάλυση "
+
+#: includes/crm-erp-reports.php:125
+msgid "GRAND CRM-ERP TOTAL"
+msgstr "Σύνολο CRM-ERP"
+
+#: includes/crm-erp-reports.php:126
+msgid "TOTAL SALES / paid"
+msgstr "Σύνολο Πωλήσεων / πληρωθέν"
+
+#: includes/crm-erp-reports.php:127
+msgid "DUE TO GET PAID"
+msgstr "Εκκρεμεί να Πληρωθείτε"
+
+#: includes/crm-erp-reports.php:128
+msgid "TOTAL PAYMENTS / paid"
+msgstr "Σύνολο Πληρωμών/Αγορών - πληρωθέν"
+
+#: includes/crm-erp-reports.php:129
+msgid "TOTAL DUE TO PAY"
+msgstr "Εκκρεμεί να Πληρώσετε"
+
+#: includes/crm-erp-reports.php:132
+msgid "ESHOP SALES - needs Addon"
+msgstr "Παραγγελίες Eshop - χρειάζεται το Addon"
+
+#: includes/crm-erp-reports.php:157
+msgid "GENERAL STATS"
+msgstr "ΓΕΝΙΚΑ ΣΤΑΤΙΣΤΙΚΑ"
+
+#: includes/crm-erp-reports.php:404
+msgid "There are no records yet!"
+msgstr "Δεν υπάρχουν ακόμα δεδομένα!"
+
+#: includes/crm-erp-reports.php:417
+msgid "Query by.."
+msgstr "Αναζήτηση βάσει.."
+
+#: includes/crm-erp-reports.php:419 includes/crm-erp-users.php:1758
+msgid "User Segment"
+msgstr "Κατηγορία Χρήστη"
+
+#: includes/crm-erp-reports.php:423
+msgid "Product Bought"
+msgstr "Αγορασθέν Προιόν"
+
+#: includes/crm-erp-reports.php:424
+msgid "Product Category "
+msgstr "Κατηγορία Προιόντος "
+
+#: includes/crm-erp-reports.php:426
+msgid "Specific User"
+msgstr "Χρήστη"
+
+#: includes/crm-erp-reports.php:452
+msgid "Filter by Month / Year"
+msgstr "Φιλτράρισμα ανα Ετος/Μήνα"
+
+#: includes/crm-erp-reports.php:457
+msgid "Select Month"
+msgstr "Επιλογή Μήνα"
+
+#: includes/crm-erp-reports.php:480
+msgid "Select Year"
+msgstr "Επιλογή Έτους"
+
+#: includes/crm-erp-reports.php:499
+msgid "Preselected Period"
+msgstr "Προεπιλεγμένη Περίοδος"
+
+#: includes/crm-erp-reports.php:500
+msgid "Today"
+msgstr "Σήμερα"
+
+#: includes/crm-erp-reports.php:501
+msgid "Yesterday"
+msgstr "Εχθές"
+
+#: includes/crm-erp-reports.php:502
+msgid "This Week"
+msgstr "Αυτή η Εβδομάδα"
+
+#: includes/crm-erp-reports.php:503
+msgid "This Month"
+msgstr "Αυτός ο Μήνας"
+
+#: includes/crm-erp-reports.php:504
+msgid "Last 2 Months"
+msgstr "Τελευταίοι 2 Μήνες"
+
+#: includes/crm-erp-reports.php:505
+msgid "Last 3 Months"
+msgstr "Τελευταίοι 3 Μήνες"
+
+#: includes/crm-erp-reports.php:506
+msgid "Last 6 Months"
+msgstr "Τελευταίοι 6 Μήνες"
+
+#: includes/crm-erp-reports.php:507
+msgid "Get All"
+msgstr "Όλα"
+
+#: includes/crm-erp-reports.php:514
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#: includes/crm-erp-reports.php:621 includes/crm-erp-reports.php:753
+#: includes/crm-erp-reports.php:1109 includes/crm-erp-transactions.php:481
+#: includes/crm-erp-transactions.php:1494
+msgid "Payments"
+msgstr "Πληρωμες"
+
+#: includes/crm-erp-reports.php:623
+msgid "Eshop Orders *"
+msgstr "Παραγγελίες Eshop *"
+
+#: includes/crm-erp-reports.php:636
+msgid "Eshop Sales"
+msgstr "Παραγγελίες Eshop"
+
+#: includes/crm-erp-reports.php:697 includes/crm-erp-reports.php:1316
+#: includes/crm-erp-reports.php:1318 includes/crm-erp-reports.php:1414
+#: includes/crm-erp-reports.php:1511 includes/crm-erp-reports.php:1512
+#: includes/crm-erp-reports.php:1656 includes/crm-erp-reports.php:1658
+#: includes/crm-erp-reports.php:1746 includes/crm-erp-reports.php:1748
+#: includes/crm-erp-reports.php:1884 includes/crm-erp-reports.php:1885
+#: includes/crm-erp-reports.php:1993 includes/crm-erp-users.php:1544
+msgid "TOTALS"
+msgstr "ΣΥΝΟΛΑ"
+
+#: includes/crm-erp-reports.php:757
+msgid "Orders *"
+msgstr "Παραγγελίες *"
+
+#: includes/crm-erp-reports.php:853
+msgid "SALES"
+msgstr "ΠΩΛΗΣΕΙΣ"
+
+#: includes/crm-erp-reports.php:857
+msgid "PAYMENTS"
+msgstr "ΠΛΗΡΩΜΕΣ/ΑΓΟΡΕΣ"
+
+#: includes/crm-erp-reports.php:1039 includes/crm-erp-reports.php:1043
+msgid "Analysis for period"
+msgstr "Ανάλυση για την Περίοδο"
+
+#: includes/crm-erp-reports.php:1041
+msgid "Analysis for "
+msgstr "Ανάλυση για "
+
+#: includes/crm-erp-reports.php:1045
+msgid "Analysis"
+msgstr "Ανάλυση"
+
+#: includes/crm-erp-reports.php:1046
+msgid "This Month Analysis"
+msgstr "Ανάλυση αυτού του Μήνα"
+
+#: includes/crm-erp-reports.php:1055
+msgid "TOTAL "
+msgstr "ΣΥΝΟΛΟ "
+
+#: includes/crm-erp-reports.php:1059
+msgid " before Taxes"
+msgstr " προ Φόρων"
+
+#: includes/crm-erp-reports.php:1063
+msgid "TAXES"
+msgstr "ΦΟΡΟΙ"
+
+#: includes/crm-erp-reports.php:1068 includes/crm-erp-transactions.php:1511
+#: includes/crm-erp-transactions.php:1514
+#: includes/crm-erp-transactions.php:1516
+#: includes/crm-erp-transactions.php:1604
+msgid "DISCOUNT"
+msgstr "ΕΚΠΤΩΣΗ"
+
+#: includes/crm-erp-reports.php:1071 includes/crm-erp-reports.php:1074
+msgid "# OF "
+msgstr "# "
+
+#: includes/crm-erp-reports.php:1071
+msgid " PRODUCTS"
+msgstr " ΠΡΟΙΟΝΤΩΝ"
+
+#: includes/crm-erp-reports.php:1079
+msgid "TOTAL PAID"
+msgstr "ΣΥΝΟΛΙΚΟ ΠΛΗΡΩΘΕΝ"
+
+#: includes/crm-erp-reports.php:1082 includes/crm-erp-transactions.php:1511
+msgid "BALANCE"
+msgstr "ΥΠΟΛΟΙΠΟ"
+
+#: includes/crm-erp-reports.php:1087
+msgid "AVG NET "
+msgstr "ΜΕΣΟΣ ΟΡΟΣ "
+
+#: includes/crm-erp-reports.php:1087
+msgid " AMOUNT/day"
+msgstr " ΑΡΙΘΜΟΣ/ημερα"
+
+#: includes/crm-erp-reports.php:1090
+msgid " EVERY"
+msgstr " ΚΑΘΕ"
+
+#: includes/crm-erp-reports.php:1090
+msgid "DAYS"
+msgstr "ΜΕΡΕΣ"
+
+#: includes/crm-erp-reports.php:1093
+msgid " PAID WITHIN GIVEN PERIOD"
+msgstr " ΠΛΗΡΩΘΕΝ ΤΗ ΔΕΔΟΜΕΝΗ ΠΕΡΙΟΔΟ"
+
+#: includes/crm-erp-reports.php:1097
+msgid " No Results "
+msgstr " Δεν υπάρχουν Αποτελέσματα "
+
+#: includes/crm-erp-reports.php:1113 includes/crm-erp-users.php:1101
+msgid "Products"
+msgstr "Προιόντα"
+
+#: includes/crm-erp-reports.php:1114 includes/crm-erp-reports.php:2027
+msgid "Categories"
+msgstr "Κατηγορίες"
+
+#: includes/crm-erp-reports.php:1115 includes/crm-erp-reports.php:1775
+#: includes/crm-erp-reports.php:1787
+msgid "Countries"
+msgstr "Χώρες"
+
+#: includes/crm-erp-reports.php:1142 includes/crm-erp-reports.php:1146
+#: includes/crm-erp-reports.php:1150 includes/crm-erp-reports.php:1154
+#: includes/crm-erp-reports.php:1156
+msgid "No "
+msgstr "Δεν βρέθηκαν "
+
+#: includes/crm-erp-reports.php:1210
+msgid "ORDERS"
+msgstr "ΠΑΡΑΓΕΛΙΕΣ"
+
+#: includes/crm-erp-reports.php:1212
+msgid "ERP SALES"
+msgstr "ERP ΠΩΛΗΣΕΙΣ"
+
+#: includes/crm-erp-reports.php:1214
+msgid "ERP PAYMENTS"
+msgstr "ERP ΠΛΗΡΩΜΕΣ/ΑΓΟΡΕΣ"
+
+#: includes/crm-erp-reports.php:1220 includes/crm-erp-reports.php:1352
+msgid "Order ID"
+msgstr "ID Συναλλαγής"
+
+#: includes/crm-erp-reports.php:1221 includes/crm-erp-reports.php:1354
+#: includes/crm-erp-transactions.php:85 includes/crm-erp-transactions.php:100
+#: includes/crm-erp-transactions.php:119
+msgid "Creation Date"
+msgstr "Ημ/νια Δημιουργίας"
+
+#: includes/crm-erp-reports.php:1222 includes/crm-erp-reports.php:1356
+#: includes/crm-erp-reports.php:1447 includes/crm-erp-transactions.php:111
+#: includes/crm-erp-transactions.php:130 includes/crm-erp-transactions.php:1341
+msgid "Payment Method"
+msgstr "Μέθοδος Πληρωμής"
+
+#: includes/crm-erp-reports.php:1223
+msgid "Coupons"
+msgstr "Κουπόνια"
+
+#: includes/crm-erp-reports.php:1224 includes/crm-erp-reports.php:1357
+msgid "Cust Name"
+msgstr "Όνομα Πελάτη"
+
+#: includes/crm-erp-reports.php:1225
+msgid "Cust Country"
+msgstr "Χώρα Πελάτη"
+
+#: includes/crm-erp-reports.php:1228
+msgid "Net Sales"
+msgstr "Καθαρές πωλήσεις"
+
+#: includes/crm-erp-reports.php:1230
+msgid "Amount after Discount before Tax"
+msgstr "Σύνολο μετά την Έκπτωση προ Φόρων"
+
+#: includes/crm-erp-reports.php:1232 includes/crm-erp-reports.php:1821
+#: includes/crm-erp-transactions.php:89 includes/crm-erp-transactions.php:105
+#: includes/crm-erp-transactions.php:124 includes/crm-erp-transactions.php:1268
+#: includes/crm-erp-transactions.php:1279 includes/crm-erp-users.php:445
+#: includes/crm-erp-users.php:818 includes/crm-erp-users.php:1769
+#: includes/generatepdf.php:332
+msgid "Discount"
+msgstr "Έκπτωση"
+
+#: includes/crm-erp-reports.php:1233
+msgid "Shipping Cost"
+msgstr "Κόστος Αποστολής"
+
+#: includes/crm-erp-reports.php:1234
+msgid "Refunds"
+msgstr "Επιστροφές"
+
+#: includes/crm-erp-reports.php:1235
+msgid "Taxes"
+msgstr "Φόροι"
+
+#: includes/crm-erp-reports.php:1238
+msgid "Total of Sales"
+msgstr "Σύνολο Πωλήσεων"
+
+#: includes/crm-erp-reports.php:1240 includes/crm-erp-reports.php:1449
+#: includes/crm-erp-reports.php:1581 includes/crm-erp-reports.php:1690
+#: includes/crm-erp-reports.php:1822 includes/crm-erp-reports.php:1952
+#: includes/crm-erp-transactions.php:90 includes/crm-erp-transactions.php:92
+#: includes/crm-erp-transactions.php:108 includes/crm-erp-transactions.php:127
+#: includes/crm-erp-transactions.php:1287
+#: includes/crm-erp-transactions.php:1295 includes/generatepdf.php:289
+#: includes/generatepdf.php:352 includes/generatepdf.php:358
+msgid "Total"
+msgstr "Σύνολο"
+
+#: includes/crm-erp-reports.php:1242 includes/crm-erp-reports.php:1359
+#: includes/crm-erp-reports.php:1582 includes/crm-erp-transactions.php:109
+#: includes/crm-erp-transactions.php:128 includes/crm-erp-transactions.php:723
+#: includes/crm-erp-transactions.php:1322
+msgid "Paid"
+msgstr "Πληρωθέν"
+
+#: includes/crm-erp-reports.php:1243 includes/crm-erp-reports.php:1583
+#: includes/crm-erp-transactions.php:110 includes/crm-erp-transactions.php:129
+#: includes/generatepdf.php:368
+msgid "Balance"
+msgstr "Υπόλοιπο"
+
+#: includes/crm-erp-reports.php:1324 includes/crm-erp-reports.php:1420
+#: includes/crm-erp-reports.php:1516 includes/crm-erp-reports.php:1663
+#: includes/crm-erp-reports.php:1754 includes/crm-erp-reports.php:1889
+#: includes/crm-erp-reports.php:1997
+msgid "Export - PRO"
+msgstr "Εξαγωγή - PRO"
+
+#: includes/crm-erp-reports.php:1324 includes/crm-erp-reports.php:1420
+#: includes/crm-erp-reports.php:1516 includes/crm-erp-reports.php:1663
+#: includes/crm-erp-reports.php:1754 includes/crm-erp-reports.php:1889
+#: includes/crm-erp-reports.php:1997
+msgid "Search..."
+msgstr "Αναζήτηση..."
+
+#: includes/crm-erp-reports.php:1334
+msgid "No data"
+msgstr "Δεν υπάρχουν δεδομένα"
+
+#: includes/crm-erp-reports.php:1346
+msgid "CLEARED PAYMENTS"
+msgstr "ΒΕΒΑΙΩΜΕΝΕΣ ΠΛΗΡΩΜΕΣ"
+
+#: includes/crm-erp-reports.php:1353 includes/crm-erp-transactions.php:1164
+msgid "Parent Transaction"
+msgstr "Μητρική Συναλλαγή"
+
+#: includes/crm-erp-reports.php:1355 includes/crm-erp-transactions.php:102
+#: includes/crm-erp-transactions.php:121 includes/crm-erp-transactions.php:1376
+msgid "Payment Date"
+msgstr "Ημ/νια Πληρωμής"
+
+#: includes/crm-erp-reports.php:1358 includes/crm-erp-reports.php:1577
+#: includes/crm-erp-reports.php:1688 includes/crm-erp-users.php:74
+#: includes/crm-erp-users.php:1682
+msgid "Country"
+msgstr "Χώρα"
+
+#: includes/crm-erp-reports.php:1430 includes/crm-erp-reports.php:1560
+msgid "No data for payments"
+msgstr "Δεν υπάρχουν δεδομένα για πληρωμές"
+
+#: includes/crm-erp-reports.php:1443
+msgid "PAYMENT METHODS"
+msgstr "ΜΕΘΟΔΟΙ ΠΛΗΡΩΜΗΣ"
+
+#: includes/crm-erp-reports.php:1448 includes/crm-erp-reports.php:1689
+msgid "Orders"
+msgstr "Παραγγελίες"
+
+#: includes/crm-erp-reports.php:1570
+msgid "CUSTOMERS"
+msgstr "ΠΕΛΑΤΕΣ"
+
+#: includes/crm-erp-reports.php:1574
+msgid "Customer Name"
+msgstr "Όνομα Πελάτη"
+
+#: includes/crm-erp-reports.php:1575 includes/crm-erp-users.php:75
+#: includes/crm-erp-users.php:1698
+msgid "Phone"
+msgstr "Τηλέφωνο"
+
+#: includes/crm-erp-reports.php:1576 includes/crm-erp-users.php:70
+msgid "Email"
+msgstr "Email"
+
+#: includes/crm-erp-reports.php:1578
+msgid "State"
+msgstr "Περιοχή"
+
+#: includes/crm-erp-reports.php:1579 includes/crm-erp-users.php:1674
+msgid "City"
+msgstr "Πόλη"
+
+#: includes/crm-erp-reports.php:1580 includes/crm-erp-reports.php:1819
+#: includes/crm-erp-transactions.php:1258
+#: includes/crm-erp-transactions.php:1797 includes/crm-erp-users.php:1506
+msgid "Quantity"
+msgstr "Ποσότητα"
+
+#: includes/crm-erp-reports.php:1672
+msgid "No data for customers"
+msgstr "Δεν υπάρχουν δεδομένα για πελάτες"
+
+#: includes/crm-erp-reports.php:1684
+msgid "COUNTRIES"
+msgstr "ΧΩΡΕΣ"
+
+#: includes/crm-erp-reports.php:1799
+msgid "No data for countries"
+msgstr "Δεν υπάρχουν δεδομένα για χώρες"
+
+#: includes/crm-erp-reports.php:1810 includes/crm-erp-reports.php:1920
+#: includes/crm-erp-users.php:1570
+msgid "PRODUCTS"
+msgstr "ΠΡΟΙΟΝΤΑ"
+
+#: includes/crm-erp-reports.php:1812 includes/crm-erp-reports.php:1946
+msgid "Amounts before tax and total discount"
+msgstr "Σύνολα προ Φόρων και Έκπτωσης"
+
+#: includes/crm-erp-reports.php:1817 includes/crm-erp-transactions.php:1243
+#: includes/crm-erp-transactions.php:1781 includes/crm-erp-users.php:1503
+msgid "Product"
+msgstr "Προιόν"
+
+#: includes/crm-erp-reports.php:1820
+msgid "Amount"
+msgstr "Ποσό"
+
+#: includes/crm-erp-reports.php:1910
+msgid "# of Sales"
+msgstr "# Συναλλαγών"
+
+#: includes/crm-erp-reports.php:1933
+msgid "No data for products"
+msgstr "Δεν υπάρχουν δεδομένα για προιόντα"
+
+#: includes/crm-erp-reports.php:1945
+msgid "CATEGORIES"
+msgstr "ΚΑΤΗΓΟΡΙΕΣ"
+
+#: includes/crm-erp-reports.php:1951
+msgid "# of Products"
+msgstr "# Προιόντων"
+
+#: includes/crm-erp-reports.php:2039
+msgid "No data for categories"
+msgstr "Δεν υπάρχουν δεδομένα για τις κατηγορίες"
+
+#: includes/crm-erp-transactions.php:37 includes/crm-erp-transactions.php:46
+#: includes/crm-erp-transactions.php:54 includes/crm-erp-users.php:42
+#: includes/crm-erp-users.php:180
+msgid "View"
+msgstr "Προβολή"
+
+#: includes/crm-erp-transactions.php:38 includes/crm-erp-transactions.php:47
+#: includes/crm-erp-transactions.php:55 includes/crm-erp-users.php:43
+#: includes/crm-erp-users.php:182
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: includes/crm-erp-transactions.php:39 includes/crm-erp-transactions.php:48
+msgid "View PDF"
+msgstr "Προβολή PDF"
+
+#: includes/crm-erp-transactions.php:40 includes/crm-erp-transactions.php:49
+msgid "Send by Email"
+msgstr "Αποστολή Email"
+
+#: includes/crm-erp-transactions.php:41 includes/crm-erp-transactions.php:162
+msgid "Turn to Invoice"
+msgstr "Μετατροπή σε Τιμολόγιο"
+
+#: includes/crm-erp-transactions.php:42 includes/crm-erp-transactions.php:50
+#: includes/crm-erp-transactions.php:56 includes/crm-erp-transactions.php:163
+#: includes/crm-erp-transactions.php:167 includes/crm-erp-users.php:44
+#: includes/crm-erp-users.php:107 includes/crm-erp-users.php:184
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#: includes/crm-erp-transactions.php:83 includes/crm-erp-transactions.php:98
+#: includes/crm-erp-transactions.php:117
+msgid "ID"
+msgstr "ID"
+
+#: includes/crm-erp-transactions.php:84 includes/crm-erp-transactions.php:1047
+#: includes/crm-erp-transactions.php:1116
+#: includes/crm-erp-transactions.php:1454
+#: includes/crm-erp-transactions.php:1979
+msgid "Offer"
+msgstr "Προσφορά"
+
+#: includes/crm-erp-transactions.php:86 includes/crm-erp-transactions.php:101
+#: includes/crm-erp-transactions.php:120 includes/crm-erp-transactions.php:1131
+msgid "Due Date"
+msgstr "Ως Ημερομηνία"
+
+#: includes/crm-erp-transactions.php:87 includes/crm-erp-transactions.php:103
+#: includes/crm-erp-transactions.php:122 includes/generatepdf.php:374
+msgid "Status"
+msgstr "Κατάσταση"
+
+#: includes/crm-erp-transactions.php:91 includes/crm-erp-transactions.php:107
+#: includes/crm-erp-transactions.php:126 includes/crm-erp-transactions.php:1307
+#: includes/generatepdf.php:340
+msgid "Tax"
+msgstr "Φόρος"
+
+#: includes/crm-erp-transactions.php:99
+msgid "Sale"
+msgstr "Πώληση"
+
+#: includes/crm-erp-transactions.php:104 includes/crm-erp-transactions.php:1206
+#: includes/crm-erp-users.php:700
+msgid "Customer"
+msgstr "Πελάτης"
+
+#: includes/crm-erp-transactions.php:106 includes/crm-erp-transactions.php:125
+msgid "Sub Total"
+msgstr "Υποσύνολο"
+
+#: includes/crm-erp-transactions.php:118
+msgid "Transaction"
+msgstr "Συναλλαγή"
+
+#: includes/crm-erp-transactions.php:123 includes/crm-erp-transactions.php:1210
+#: includes/crm-erp-users.php:706
+msgid "Vendor"
+msgstr "Προμηθευτής"
+
+#: includes/crm-erp-transactions.php:201
+msgid " Transactions with IDs "
+msgstr " Οι Συναλλαγές με IDs "
+
+#: includes/crm-erp-transactions.php:201 includes/crm-erp-transactions.php:210
+msgid "  deleted"
+msgstr " διεγράφηκαν"
+
+#: includes/crm-erp-transactions.php:210
+msgid " Transaction with ID "
+msgstr " Η συναλλαγή με ID "
+
+#: includes/crm-erp-transactions.php:242
+msgid " Offers with IDs "
+msgstr " Οι Προσφορές με IDs "
+
+#: includes/crm-erp-transactions.php:242 includes/crm-erp-transactions.php:250
+msgid "  turned to invoice"
+msgstr " μετατράπηκαν σε Τιμολόγια"
+
+#: includes/crm-erp-transactions.php:250
+msgid " Offer with ID "
+msgstr " Η Προσφορά με ID "
+
+#: includes/crm-erp-transactions.php:629
+msgid "Offers List to "
+msgstr "Λίστα Προσφορών προς "
+
+#: includes/crm-erp-transactions.php:636
+msgid "Offers List to Customers / Vendors"
+msgstr "Λίστα προσφορών προς Πελάτες/Προμηθευτές"
+
+#: includes/crm-erp-transactions.php:639 includes/crm-erp-transactions.php:662
+#: includes/crm-erp-transactions.php:685 includes/crm-erp-users.php:524
+#: includes/crm-erp-users.php:529
+msgid "Add new"
+msgstr "Προσθήκη Νέας"
+
+#: includes/crm-erp-transactions.php:646
+msgid "Offline Sales to "
+msgstr "Offline Πωλήσεις προς "
+
+#: includes/crm-erp-transactions.php:652
+msgid "Offline Sales to Customers"
+msgstr "Offline Πωλήσεις προς Πελάτες"
+
+#: includes/crm-erp-transactions.php:656 includes/crm-erp-transactions.php:679
+msgid "Total paid: "
+msgstr "Συνολικό Πληρωθέν: "
+
+#: includes/crm-erp-transactions.php:659
+msgid "- To get paid: "
+msgstr "- Ποσό που εκκρεμεί να πληρωθεί "
+
+#: includes/crm-erp-transactions.php:668
+msgid "Payments to "
+msgstr "Πληρωμές/Αγορές προς "
+
+#: includes/crm-erp-transactions.php:674
+msgid "Payments to Vendors "
+msgstr "Πληρωμές/Αγορές απο Προμηθυετές "
+
+#: includes/crm-erp-transactions.php:682
+msgid "- To pay: "
+msgstr "- για να πληρωθεί: "
+
+#: includes/crm-erp-transactions.php:695
+msgid "Search By User"
+msgstr "Αναζήτηση ανά Χρήστη"
+
+#: includes/crm-erp-transactions.php:715
+msgid "From date"
+msgstr "Από Ημ/νια"
+
+#: includes/crm-erp-transactions.php:717
+msgid "To date"
+msgstr "Μέχρι Ημ/νια"
+
+#: includes/crm-erp-transactions.php:722
+msgid "Select Status..."
+msgstr "Επιλέξτε Κατάσταση.."
+
+#: includes/crm-erp-transactions.php:724
+msgid "Pending"
+msgstr "Εκκρεμής"
+
+#: includes/crm-erp-transactions.php:958
+msgid "Transaction was successfully saved"
+msgstr "Η Συναλλαγή καταχωρήθηκε επιτυχώς"
+
+#: includes/crm-erp-transactions.php:959
+msgid " Transaction was successfully saved"
+msgstr " Η Συναλλαγή καταχωρήθηκε επιτυχώς"
+
+#: includes/crm-erp-transactions.php:961
+msgid "There was an error while saving Transaction"
+msgstr "Υπήρξε ένα πρόβλημα κατά την καταχώρηση της Συναλλαγής"
+
+#: includes/crm-erp-transactions.php:962
+msgid " There was an error while saving Transaction"
+msgstr " Υπήρξε ένα πρόβλημα κατά την καταχώρηση της Συναλλαγής"
+
+#: includes/crm-erp-transactions.php:1018
+msgid "Transaction was successfully updated"
+msgstr "Η Συναλλαγή ενημερώθηκε επιτυχώς"
+
+#: includes/crm-erp-transactions.php:1020
+msgid "There was an error while updating Transaction"
+msgstr "Υπήρξε ένα πρόβλημα κατά την ενημέρωση της Συναλλαγής"
+
+#: includes/crm-erp-transactions.php:1036
+msgid "Transaction not found"
+msgstr "Η συναλλαγή δεν βρέθηκε"
+
+#: includes/crm-erp-transactions.php:1049
+#: includes/crm-erp-transactions.php:1055
+#: includes/crm-erp-transactions.php:1062
+#: includes/crm-erp-transactions.php:1456
+#: includes/crm-erp-transactions.php:1462
+#: includes/crm-erp-transactions.php:1469 includes/crm-erp-users.php:702
+#: includes/crm-erp-users.php:708
+msgid "back to list"
+msgstr "πίσω στη λίστα"
+
+#: includes/crm-erp-transactions.php:1053
+#: includes/crm-erp-transactions.php:1460
+msgid "Sale Transaction"
+msgstr "Συναλλαγή Πώλησης"
+
+#: includes/crm-erp-transactions.php:1060
+#: includes/crm-erp-transactions.php:1467
+msgid "Payment Transaction"
+msgstr "Συναλλαγή Πληρωμής/Αγοράς"
+
+#: includes/crm-erp-transactions.php:1086 includes/crm-erp-users.php:729
+msgid "Save"
+msgstr "Αποθήκευση"
+
+#: includes/crm-erp-transactions.php:1110
+msgid "Type of Transaction"
+msgstr "Τύπος Συναλλαγής"
+
+#: includes/crm-erp-transactions.php:1119
+#: includes/crm-erp-transactions.php:1122
+msgid "New"
+msgstr "Νέα"
+
+#: includes/crm-erp-transactions.php:1120
+#: includes/crm-erp-transactions.php:1123
+msgid "Pay Existing Transaction"
+msgstr "Πληρωμή Υπάρχουσας Συναλλαγής"
+
+#: includes/crm-erp-transactions.php:1135
+msgid "Due date"
+msgstr "Εως Ημ/νια"
+
+#: includes/crm-erp-transactions.php:1153
+msgid "Some Text"
+msgstr "Προσθέστε Κείμενο"
+
+#: includes/crm-erp-transactions.php:1156
+msgid "Add Some text for your Offer"
+msgstr "Προσθέστε κείμενο για την προσφορά"
+
+#: includes/crm-erp-transactions.php:1168 includes/crm-erp-users.php:546
+msgid "Search.."
+msgstr "Αναζήτηση.."
+
+#: includes/crm-erp-transactions.php:1198
+msgid "for user "
+msgstr "για το χρήστη "
+
+#: includes/crm-erp-transactions.php:1215 includes/crm-erp-users.php:1804
+#: includes/crm-erp-users.php:1840 includes/crm-erp-users.php:1872
+msgid "Select user: search by name,vat or email"
+msgstr "Επιλογή Χρήστη: αναζήτηση βάσει ονόματος,ΑΦΜ ή email"
+
+#: includes/crm-erp-transactions.php:1263
+#: includes/crm-erp-transactions.php:1801
+msgid "Price"
+msgstr "Τιμή"
+
+#: includes/crm-erp-transactions.php:1283
+msgid "Discount on Total"
+msgstr "Έκπτωση στο Σύνολο"
+
+#: includes/crm-erp-transactions.php:1303
+msgid "Tax "
+msgstr "Φόρος "
+
+#: includes/crm-erp-transactions.php:1310
+#: includes/crm-erp-transactions.php:1314
+msgid "Grand Total"
+msgstr "Σύνολο"
+
+#: includes/crm-erp-transactions.php:1328
+msgid "Paid amount"
+msgstr "Πληρωθέν Ποσό"
+
+#: includes/crm-erp-transactions.php:1380
+msgid "Payment date"
+msgstr "Ημ/νια Πληρωμής"
+
+#: includes/crm-erp-transactions.php:1391
+msgid "Need Invoice?"
+msgstr "Χρειάζεστε Τιμολόγιο?"
+
+#: includes/crm-erp-transactions.php:1407
+msgid "Receipt as Document"
+msgstr "Απόδειξη ως Έγγραφο"
+
+#: includes/crm-erp-transactions.php:1424
+msgid "Total is required"
+msgstr "Το σύνολο απαιτείται"
+
+#: includes/crm-erp-transactions.php:1425
+msgid "User is required"
+msgstr "Ο Χρήστης Συναλλαγής απαιτείται"
+
+#: includes/crm-erp-transactions.php:1492
+msgid "Order Details"
+msgstr "Πληροφορίες Παραγγελίας"
+
+#: includes/crm-erp-transactions.php:1497
+msgid "Offer Details"
+msgstr "Πληροφορίες Προσφοράς"
+
+#: includes/crm-erp-transactions.php:1511
+#: includes/crm-erp-transactions.php:1514
+#: includes/crm-erp-transactions.php:1516
+msgid "DATE"
+msgstr "ΗΜ/ΝΙΑ"
+
+#: includes/crm-erp-transactions.php:1511
+#: includes/crm-erp-transactions.php:1514
+#: includes/crm-erp-transactions.php:1516
+msgid "NAME"
+msgstr "ΟΝΟΜΑ"
+
+#: includes/crm-erp-transactions.php:1511
+#: includes/crm-erp-transactions.php:1514
+#: includes/crm-erp-transactions.php:1516
+msgid "USERNAME"
+msgstr "ΟΝΟΜΑ ΧΡΗΣΤΗ"
+
+#: includes/crm-erp-transactions.php:1511
+#: includes/crm-erp-transactions.php:1514
+#: includes/crm-erp-transactions.php:1516
+msgid "STATUS"
+msgstr "ΚΑΤΑΣΤΑΣΗ"
+
+#: includes/crm-erp-transactions.php:1511
+#: includes/crm-erp-transactions.php:1514
+#: includes/crm-erp-transactions.php:1516
+msgid "SUB TOTAL"
+msgstr "ΥΠΟΣΥΝΟΛΟ"
+
+#: includes/crm-erp-transactions.php:1511
+#: includes/crm-erp-transactions.php:1514
+#: includes/crm-erp-transactions.php:1516
+msgid "TAX"
+msgstr "ΦΟΡΟΣ"
+
+#: includes/crm-erp-transactions.php:1511
+#: includes/crm-erp-transactions.php:1514
+#: includes/crm-erp-transactions.php:1516
+#: includes/crm-erp-transactions.php:1605 includes/crm-erp-users.php:1001
+msgid "TOTAL"
+msgstr "ΣΥΝΟΛΟ"
+
+#: includes/crm-erp-transactions.php:1511
+#: includes/crm-erp-transactions.php:1645
+msgid "PAID"
+msgstr "ΠΛΗΡΩΘΗΚΕ"
+
+#: includes/crm-erp-transactions.php:1514
+#: includes/crm-erp-transactions.php:1516
+msgid "TYPE"
+msgstr "ΤΥΠΟΣ"
+
+#: includes/crm-erp-transactions.php:1516
+msgid "PARENT"
+msgstr "ΜΗΤΡΙΚΗ"
+
+#: includes/crm-erp-transactions.php:1550
+#: includes/crm-erp-transactions.php:1577
+msgid "User does not exist anymore"
+msgstr "Ο χρήστης δεν υπάρχει πια"
+
+#: includes/crm-erp-transactions.php:1601
+msgid "PRODUCT"
+msgstr "ΠΡΟΙΟΝ"
+
+#: includes/crm-erp-transactions.php:1602
+msgid "QUANTITY"
+msgstr "ΠΟΣΟΤΗΤΑ"
+
+#: includes/crm-erp-transactions.php:1603
+msgid "AMOUNT"
+msgstr "ΠΟΣΟ"
+
+#: includes/crm-erp-transactions.php:1643
+msgid "PAYMENT ID"
+msgstr "ID ΠΛΗΡΩΜΗΣ"
+
+#: includes/crm-erp-transactions.php:1644
+msgid "PAYMENT DATE"
+msgstr "ΗΜ/ΝΙΑ ΠΛΗΡΩΜΗΣ"
+
+#: includes/crm-erp-transactions.php:1647
+msgid "ACTIONS"
+msgstr "ΕΝΕΡΓΕΙΕΣ"
+
+#: includes/crm-erp-transactions.php:1669
+msgid "Generate PDF Receipt"
+msgstr "Δημιουργείστε Απόδειξη σε PDF"
+
+#: includes/crm-erp-transactions.php:1671
+#: includes/crm-erp-transactions.php:1744
+msgid "Document not Available as User does not exist anymore"
+msgstr "Το έγγραφο δεν είναι διαθέσιμο καθότι ο χρήστης δεν υπάρχει πια"
+
+#: includes/crm-erp-transactions.php:1693
+#: includes/crm-erp-transactions.php:1699
+msgid "Add new Payment"
+msgstr "Προσθήκη Νέας Πληρωμής"
+
+#: includes/crm-erp-transactions.php:1719
+msgid "Generate PDF Offer"
+msgstr "Δημιουργείστε Προσφορά σε PDF"
+
+#: includes/crm-erp-transactions.php:1721
+msgid "Email Offer to User"
+msgstr "Στείλτε με Email την προσφορά στο Χρήστη"
+
+#: includes/crm-erp-transactions.php:1727
+#: includes/crm-erp-transactions.php:1959
+#: includes/crm-erp-transactions.php:1973
+msgid "Receipt"
+msgstr "Απόδειξη"
+
+#: includes/crm-erp-transactions.php:1728
+#: includes/crm-erp-transactions.php:1966 includes/generatepdf.php:552
+msgid "Invoice"
+msgstr "Τιμολόγιο"
+
+#: includes/crm-erp-transactions.php:1731
+msgid "Generate PDF "
+msgstr "Δημιουργείτε PDF "
+
+#: includes/crm-erp-transactions.php:1736
+msgid "View PDF "
+msgstr "Προβολή PDF "
+
+#: includes/crm-erp-transactions.php:1739
+msgid "Email "
+msgstr "Email "
+
+#: includes/crm-erp-transactions.php:1739
+msgid " to User"
+msgstr " στο Χρήστη"
+
+#: includes/crm-erp-transactions.php:1789 includes/crm-erp-users.php:576
+msgid "Select product"
+msgstr "Επιλογή Προιόντος"
+
+#: includes/crm-erp-transactions.php:1805
+msgid "Product Discount"
+msgstr "Έκπτωση Προιόντος"
+
+#: includes/crm-erp-transactions.php:2065
+msgid "No user found for document "
+msgstr "Δεν βρέθηκε ο χρήστης που αφορά το έγγραφο "
+
+#: includes/crm-erp-transactions.php:2082
+msgid ""
+"To generate documents please go to settings and fill Company name and Address"
+msgstr ""
+"Για να δημιουργήσετε απόδειη ή τιμολόγιο παρακαλώ εισάγετε Όνομα & Διεύθυνση "
+"Εταιρείας στις Ρυθμίσεις του Plugin"
+
+#: includes/crm-erp-users.php:71
+msgid "VAT"
+msgstr "ΑΦΜ"
+
+#: includes/crm-erp-users.php:72
+msgid "First Name"
+msgstr "Όνομα"
+
+#: includes/crm-erp-users.php:73
+msgid "Last Name"
+msgstr "Επώνυμο"
+
+#: includes/crm-erp-users.php:79
+msgid "Totals"
+msgstr "Σύνολα"
+
+#: includes/crm-erp-users.php:130
+msgid " Users with Ids: "
+msgstr " Οι χρήστες με ID: "
+
+#: includes/crm-erp-users.php:130
+msgid " were deleted"
+msgstr " διαφράφηκαν"
+
+#: includes/crm-erp-users.php:137
+msgid " User with Id: "
+msgstr " Ο χρήστης με ID "
+
+#: includes/crm-erp-users.php:137
+msgid " is deleted"
+msgstr " διεγράφη"
+
+#: includes/crm-erp-users.php:403
+msgid "CRM-ERP Vendor"
+msgstr "CRM ERP Προμηθευτής"
+
+#: includes/crm-erp-users.php:413
+msgid "CRM-ERP Customer"
+msgstr "CRM ERP Πελάτης"
+
+#: includes/crm-erp-users.php:444
+msgid "Segment"
+msgstr "Κατηγορία"
+
+#: includes/crm-erp-users.php:480 includes/crm-erp-users.php:486
+msgid "Paid: "
+msgstr "Πληρώθηκε: "
+
+#: includes/crm-erp-users.php:482
+msgid "Eshop orders: "
+msgstr "Παραγγελίες eshop: "
+
+#: includes/crm-erp-users.php:484 includes/crm-erp-users.php:487
+msgid "Owns: "
+msgstr "Χρωστάει: "
+
+#: includes/crm-erp-users.php:492
+msgid "You Paid: "
+msgstr "Πληρώσατε: "
+
+#: includes/crm-erp-users.php:494
+msgid "You own: "
+msgstr "Οφείλετε: "
+
+#: includes/crm-erp-users.php:540
+msgid "Search by Email "
+msgstr "Αναζήτηση ανά Email "
+
+#: includes/crm-erp-users.php:542
+msgid "Search by Vat"
+msgstr "Αναζήτηση ανά ΑΦΜ"
+
+#: includes/crm-erp-users.php:563
+msgid "select users by.."
+msgstr "επιλέξτε χρήστη ανά.."
+
+#: includes/crm-erp-users.php:564
+msgid "User Segment - PRO"
+msgstr "Κατηγορία Χρήστη - PRO"
+
+#: includes/crm-erp-users.php:565
+msgid "that bought a product"
+msgstr "που αγόρασαν ένα προιόν"
+
+#: includes/crm-erp-users.php:566
+msgid "with no transactions"
+msgstr "χωρίς συναλλαγές"
+
+#: includes/crm-erp-users.php:620
+msgid "User was successfully saved"
+msgstr "Ο χρήστης αποθηκεύτηκε επιτυχώς"
+
+#: includes/crm-erp-users.php:622
+msgid "Vat already exists"
+msgstr "Το ΑΦΜ υπάρχει ήδη"
+
+#: includes/crm-erp-users.php:625
+msgid "You need to enter a correct email address"
+msgstr "Πρέπει να εισάγετε ένα σωστό email"
+
+#: includes/crm-erp-users.php:635
+msgid "User already exists - updated"
+msgstr "O χρήστης υπάρχει ήδη - ενημερώθηκε"
+
+#: includes/crm-erp-users.php:806
+msgid "User Segment in PRO Addon"
+msgstr "Κατηγορία Χρήστη - PRO Addon"
+
+#: includes/crm-erp-users.php:822
+msgid "Discount in PRO Addon"
+msgstr "Έκπτωση - στο PRO Addon"
+
+#: includes/crm-erp-users.php:853
+msgid " vat already exists"
+msgstr " το ΑΦΜ υπάρχει ήδη"
+
+#: includes/crm-erp-users.php:877
+msgid "ERP - YOU PAID"
+msgstr "ERP - ΠΛΗΡΩΣΑΤΕ"
+
+#: includes/crm-erp-users.php:878
+msgid "ERP - YOU OWN"
+msgstr "ERP  - ΟΦΕΙΛΕΤΕ"
+
+#: includes/crm-erp-users.php:880
+msgid "ERP PAID"
+msgstr "ERP - EXEΤΕ ΠΛΗΡΩΘΕΙ"
+
+#: includes/crm-erp-users.php:881
+msgid "ERP - OWNS"
+msgstr "ERP - ΟΦΕΙΛΕΙ"
+
+#: includes/crm-erp-users.php:926
+msgid "Location "
+msgstr "Τοποθεσία "
+
+#: includes/crm-erp-users.php:940
+msgid "Transaction Invoices "
+msgstr "Τιμολόγια Συναλλαγών "
+
+#: includes/crm-erp-users.php:948 includes/crm-erp-users.php:1096
+msgid "Tickets"
+msgstr "Προβλήματα Πελάτη"
+
+#: includes/crm-erp-users.php:996
+msgid "ESHOP SALES"
+msgstr "ΠΩΛΗΣΕΙΣ ESHOP"
+
+#: includes/crm-erp-users.php:1054
+msgid "Paid vs Owned"
+msgstr "ΠΛΗΡΩΘΕΝΤΑ vs ΟΦΕΙΛΕΣ"
+
+#: includes/crm-erp-users.php:1073
+msgid "Personal Info"
+msgstr "Προσωπικές Πληροφορίες"
+
+#: includes/crm-erp-users.php:1112
+msgid "Emails"
+msgstr "Emails"
+
+#: includes/crm-erp-users.php:1118
+msgid "Actions"
+msgstr "Ενέργειες"
+
+#: includes/crm-erp-users.php:1255 includes/crm-erp-users.php:1389
+msgid "edit"
+msgstr "επεξεργασία"
+
+#: includes/crm-erp-users.php:1265 includes/crm-erp-users.php:1325
+#: includes/crm-erp-users.php:1412
+msgid "Add New"
+msgstr "Προσθήκη Νέου"
+
+#: includes/crm-erp-users.php:1316 includes/crm-erp-users.php:1389
+msgid "view"
+msgstr "προβολή"
+
+#: includes/crm-erp-users.php:1323
+msgid "No offers found"
+msgstr "Δεν βρέθηκαν Προσφορές"
+
+#: includes/crm-erp-users.php:1399
+msgid "No ERP transactions found"
+msgstr "Δεν βρέθηκαν ERP Συναλλαγές"
+
+#: includes/crm-erp-users.php:1560
+msgid "Sold"
+msgstr "Πωλήθηκαν"
+
+#: includes/crm-erp-users.php:1606 includes/crm-erp-users.php:1618
+msgid "Orders need "
+msgstr "Για την εμφάνιση Παραγγελιών χρειάζεται το "
+
+#: includes/crm-erp-users.php:1613
+msgid "Tickets need "
+msgstr "Για τα προβλήματα πελάτη χρειάζεται το "
+
+#: includes/crm-erp-users.php:1624
+msgid "Actions need the "
+msgstr "Για τις ενέργιες πελάτης χρειάζεται το "
+
+#: includes/crm-erp-users.php:1630
+msgid "Emails need "
+msgstr "Για τα emails χρειάζεται το "
+
+#: includes/crm-erp-users.php:1662
+msgid "Contact info"
+msgstr "Πληροφορίες Επικοινωνίας"
+
+#: includes/crm-erp-users.php:1666
+msgid "Address"
+msgstr "Διεύθυνση"
+
+#: includes/crm-erp-users.php:1690
+msgid "Postcode"
+msgstr "Ταχυδρομικός Κώδικας"
+
+#: includes/crm-erp-users.php:1708
+msgid "Extra profile information"
+msgstr "Επιπλέον Πληροφορίες"
+
+#: includes/crm-erp-users.php:1716
+msgid "VAT Number"
+msgstr "ΑΦΜ"
+
+#: includes/crm-erp-users.php:1726
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: includes/crm-erp-users.php:1734
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: includes/crm-erp-users.php:1762
+msgid "Select User Segment"
+msgstr "Επιλογή Κατηγορίας Χρήστη"
+
+#: includes/generatepdf.php:176 includes/generatepdf.php:177
+msgid "Date: "
+msgstr "Ημ/νια: "
+
+#: includes/generatepdf.php:185 includes/generatepdf.php:253
+msgid "VAT: "
+msgstr "ΑΦΜ: "
+
+#: includes/generatepdf.php:217 includes/generatepdf.php:218
+msgid "Due Date: "
+msgstr "Εως Ημ/νια: "
+
+#: includes/generatepdf.php:228 includes/generatepdf.php:229
+msgid "Payment Date: "
+msgstr "Ημ/νια Πληρωμής: "
+
+#: includes/generatepdf.php:243
+msgid "To"
+msgstr "Προς"
+
+#: includes/generatepdf.php:244
+msgid "Bill To"
+msgstr "Χρέωση σε"
+
+#: includes/generatepdf.php:254
+msgid "PHONE: "
+msgstr "ΤΗΛΕΦΩΝΟ: "
+
+#: includes/generatepdf.php:272 includes/generatepdf.php:492
+#: includes/generatepdf.php:494
+msgid " for Invoice #"
+msgstr " για το Τιμολόγιο #"
+
+#: includes/generatepdf.php:286
+msgid "Description"
+msgstr "Περιγραφή"
+
+#: includes/generatepdf.php:287
+msgid "Qty"
+msgstr "Ποσότητα"
+
+#: includes/generatepdf.php:288
+msgid "Unit Price"
+msgstr "Τιμή Μονάδος"
+
+#: includes/generatepdf.php:317
+msgid "Subtotal"
+msgstr "Υποσύνολο"
+
+#: includes/generatepdf.php:324
+msgid "Shipping"
+msgstr "Αποστολή"
+
+#: includes/generatepdf.php:391 includes/generatepdf.php:401
+msgid "Payment Method "
+msgstr "Μέθοδος πληρωμής "
+
+#: includes/generatepdf.php:416
+msgid "Notes"
+msgstr "Σημειώσεις"
+
+#: includes/generatepdf.php:488
+msgid " from "
+msgstr " από "
+
+#: includes/generatepdf.php:497
+msgid " #"
+msgstr " #"
+
+#: includes/generatepdf.php:498
+msgid "#"
+msgstr "#"
+
+#: includes/generatepdf.php:514
+msgid "Error sending email to "
+msgstr "Πρόβλημα αποστολής email Προς "
+
+#: includes/generatepdf.php:520
+msgid "Invoice sent to user with Email "
+msgstr "Το τιμολόγιο εστάλη στο χρήστη με email "
+
+#: includes/generatepdf.php:548
+msgid "Cash"
+msgstr "Μετρητά"
+
+#, php-format
+#~ msgid "Default tax % for transactions"
+#~ msgstr "Προεπιλεγμένος Φόρος για τις Συναλλαγές"
